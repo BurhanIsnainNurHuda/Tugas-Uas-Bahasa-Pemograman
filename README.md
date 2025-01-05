@@ -8,5 +8,8 @@
  - procces.py
 
 # Data.py
+# Code
 
-Code
+
+![IMG_20250105_153017](https://github.com/user-attachments/assets/90b8092f-314f-437d-9fe9-78ac81e58610)
+
