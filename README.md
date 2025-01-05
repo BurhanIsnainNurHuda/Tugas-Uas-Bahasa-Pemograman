@@ -1,6 +1,7 @@
 # Tugas-Uas-Bahasa-Pemograman
 
-# Program
+# Urutan Program
+ Program
  - main.py
  - data.py
  - view.py
