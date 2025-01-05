@@ -7,23 +7,23 @@
  - view.py
  - procces.py
 
-# Data
+# - Data
 # Code
 
 
 ![IMG_20250105_153017](https://github.com/user-attachments/assets/90b8092f-314f-437d-9fe9-78ac81e58610)
 
-# View
+# - View
 # Code
 
 ![IMG_20250105_153400](https://github.com/user-attachments/assets/9a712c14-fd7d-4076-8e82-bb0761c0a34d)
 
-# Procces 
+# - Procces 
 # Code
 
 ![IMG_20250105_153552](https://github.com/user-attachments/assets/f9d059e2-6a4d-4844-9e9e-92de73ea140c)
 
-# Main
+# - Main
 # Code
 
 ![IMG_20250105_153748](https://github.com/user-attachments/assets/81327af2-250d-478b-83c1-de35d202a5e3)
